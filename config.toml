@@ -107,7 +107,7 @@ canonifyURLs = true
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 10
+    sidebar = 3
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -148,16 +148,23 @@ canonifyURLs = true
   weight = 7
 
 [[menu.main]]
-  name = "blockchain"
+  name = "BlockChain"
   url = "/blockchain/"
   # identifier = "fa fa-sitemap"
   weight = 8
 
 [[menu.main]]
+  name = "Other"
+  url = "/misc/"
+  # identifier = "fa fa-sitemap"
+  weight = 9
+
+
+[[menu.main]]
   name = "Tags"
   url = "/tags/"
   identifier = "fa fa-list"
-  weight = 9
+  weight = 10 
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your
