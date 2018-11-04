@@ -136,8 +136,8 @@ canonifyURLs = true
   weight = 4
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories/"
+  name = "Kubedge"
+  url = "/kubedge/"
   identifier = "fa fa-sitemap"
   weight = 5
 
