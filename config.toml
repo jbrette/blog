@@ -130,12 +130,6 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "Tags"
-  url = "/tags/"
-  identifier = "fa fa-list"
-  weight = 4
-
-[[menu.main]]
   name = "Kubedge"
   url = "/kubedge/"
   identifier = "fas fa-atom"
@@ -158,6 +152,13 @@ canonifyURLs = true
   url = "/blockchain/"
   # identifier = "fa fa-sitemap"
   weight = 8
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  identifier = "fa fa-list"
+  weight = 9
+
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
