@@ -1,4 +1,4 @@
-and = "https://jbrette.github.io/"
+baseURL = "https://jbrette.github.io/"
 languageCode = "en-us"
 title = "Jerome Brette's Blog"
 theme = "hugo-future-imperfect"
